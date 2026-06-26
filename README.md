@@ -90,7 +90,7 @@ Pull requests are welcome!
 
 - Email: qwererrff@gmail.com
 - GitHub: [mm778877331-stack](https://github.com/mm778877331-stack)
-- LinkedIn: [Mohammad Al-Baou](https://www.linkedin.com/in/mohammed-tawfiq-9798903b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (Optional)
+- LinkedIn: [Mohammad Al-Baou](https://www.linkedin.com/in/mohammed-tawfiq-9798903b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 ## 📜 License
 
