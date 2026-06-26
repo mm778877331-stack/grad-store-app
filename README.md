@@ -65,7 +65,7 @@ lib/
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://i.imgpeek.com/V2FvUfn1W0x1" alt="1" width="350"/>
+  <img src="https://i.imgpeek.com/V2FvUfn1W0x1" alt="1" width="500"/>
   <img src="https://i.imgpeek.com/xgAWC4yAloL9" alt="2" width="250"/>
   <img src="https://i.imgpeek.com/pqqNhr5qqyi2" alt="3" width="250"/>
   <img src="https://i.imgpeek.com/8cycV93Eo6Qm" alt="4" width="250"/>
