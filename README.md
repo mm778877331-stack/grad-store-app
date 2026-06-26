@@ -84,18 +84,19 @@ flutter run
 ```
 ## 🤝 Contributing
 We welcome your contributions! Please follow these steps:
-1. Fork the repository to your account.
-2. Create a new branch (git checkout -b feature/amazing-feature).
-3. Add your modifications (git commit -m Add some amazing feature).
-4. Push the modifications (git push origin feature/amazing-feature).
+1. **Fork** the repository to your account.
+2. Create a new branch (`git checkout -b feature/amazing-feature`).
+3. Add your modifications (`git commit -m 'Add some amazing feature'`).
+4. Push the modifications (`git push origin feature/amazing-feature`).
 5. Open a merge request (Pull Request).
+   
 Please ensure your code follows the style guide and includes tests.
 
 ## 📬 Contact
 
 - Email: qwererrff@gmail.com
 - GitHub: [mm778877331-stack](https://github.com/mm778877331-stack)
-- LinkedIn: [Mohammad Al-Baou](Your_Account_Link) (Optional)
+- LinkedIn: [Mohammad Al-Baou](https://www.linkedin.com/in/mohammed-tawfiq-9798903b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (Optional)
 
 ## 📜 License
 
