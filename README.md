@@ -66,10 +66,10 @@ lib/
 
 <div align="center">
   <img src="https://i.imgpeek.com/V2FvUfn1W0x1" alt="1" width="1000"/>
-  <img src="https://i.imgpeek.com/xgAWC4yAloL9" alt="2" width="250"/>
-  <img src="https://i.imgpeek.com/pqqNhr5qqyi2" alt="3" width="250"/>
-  <img src="https://i.imgpeek.com/8cycV93Eo6Qm" alt="4" width="250"/>
-  <img src="https://i.imgpeek.com/1sGo9Slwu6z-" alt="5" width="250"/>
+  <img src="https://i.imgpeek.com/xgAWC4yAloL9" alt="2" width="1000"/>
+  <img src="https://i.imgpeek.com/pqqNhr5qqyi2" alt="3" width="1000"/>
+  <img src="https://i.imgpeek.com/8cycV93Eo6Qm" alt="4" width="1000"/>
+  <img src="https://i.imgpeek.com/1sGo9Slwu6z-" alt="5" width="1000"/>
   <br/><br/>
   <em>Grad Store</em>
 </div>
