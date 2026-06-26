@@ -26,24 +26,15 @@ A comprehensive e-commerce app for providing graduation project supplies in Yeme
 ## 🛠 Technologies Used
 
 | Domain | Technologies |
-
 |--------|----------|
-
 | Interface: Flutter, Dart |  | State Management | BLoC (Cubit) |
-
 | Network | Dio, Retrofit |
-
 | Local Storage | SharedPreferences, Hive |
-
 | Dependency Injection | GetIt |
-
 | Image Handling | CachedNetworkImage |
-
 | Functional Programming | Dartz (Either) |
-
 | APIs | External REST API (JWT) |
 
----
 
 ## 📁 Project Structure
 ```
